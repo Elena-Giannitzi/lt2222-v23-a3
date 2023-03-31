@@ -5,6 +5,12 @@ assignment on Canvas.
 
 # PART 4 Of Final Assignment
 
+The Enron corpus is a large corpus of electronic (email) conversations between the employees of the Enron company, which bankrupted in 2001. The release of these emails
+led to the investigation and litigation on the currently known as the "Enron scandal". To be more precise, more than 500.000 emails and email attachments were released to the public. Even though the corpus is mostly used for NLP research as a dataset, it still raises a wide variety of ethical issues concerning privacy and consent violation and, of course, the appropriate use of data. I think, even more concerning is the fact that no one of the employees gave any explicit consent for the use of this corpus and its data. It raises questions about the ethical responsibility of the people who will oversee them and research upon them. 
+
+Another issue, that we should consider, is how the leak of the corpus could harm and violate the personal lives of the people whose names are included in the data. The leak to the public of personal and sensitive information could harm these individuals' reputation and cause psychological problems, like anxiety, distress, despair, depression, etc., which could later lead to more "dangerous" incidents.  
+
+Overall, the Enron corpus serves as an example for research all around the world and the ethical concerns when handling "sensitive" data that were not originated for research purposes. It also highlights that other companies and organizations which collect data need to be more transparent and "serious" when collecting and using data.
 
 
 # PART 5 of Final Assignemnt
