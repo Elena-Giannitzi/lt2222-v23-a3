@@ -14,6 +14,12 @@ python a3_features.py /scratch/lt2222-v23/enron_sample dataset 30 --test 20  (No
 
 python a3_features.py /scratch/lt2222-v23/enron_sample dataset 20 --test 20 (Note: in this case the dimensions of the dataset are 20)
 
+For part 2 of the assignment, you should be able to run the code by typing: python a3_model.py Train.csv Test.csv
+with the latter arguments being the titles of the csv files you should have from running the first part (code a3_features.py). No further arguments are needed. Please, do note that in the terminal it's not always possible to see the matrix table, thus I have implemented the ability to be saved as an image in your directory once you run the code. Once it has been run, you should see a confusion_matrix.png file, like the one in my repository. 
+
+#Note: the confusion matrix is wrong. For some reason it only reads one label, no matter how much i tried to fix it. 
+
+
 # PART 4 Of Final Assignment
 
 The Enron corpus is a large corpus of electronic (email) conversations between the employees of the Enron company, which bankrupted in 2001. The release of these emails
